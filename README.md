@@ -1,4 +1,6 @@
-Disclaimer: Forked from and all the credit goes to https://gitlab.com/bradleymiller/Y64/-/tree/master
+Disclaimer: Originally Forked from and all the credit goes to https://gitlab.com/bradleymiller/Y64/-/tree/master, I forked from banesto
+
+Attempting to use air v33 for ARM binaries
 
 # 64-bit YNAB 4 converter shell script for macOS
 
@@ -16,7 +18,7 @@ To run the shell script, do the following:
 2. Type `Terminal` and press Enter
 3. Copy and paste the following into the terminal window and press Enter (be sure to include the ending quote). The script explains what it will do and then pauses before it does it.
 
-   ```/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/banesto/YNAB4-64bit/main/install)"```
+   ```/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/adude007/YNAB4-64bit/main/install)"```
 
 4. When the shell script is complete, you must drag the resulting app to your /Applications directory to install
 
